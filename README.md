@@ -13,7 +13,7 @@
 
 <h1 align="center">
   
-[![GitHub](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/tu-usuario/](https://www.linkedin.com/in/oscar-realpe-/))
+[![GitHub](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/oscar-realpe-/)
 
 </h1>
 
