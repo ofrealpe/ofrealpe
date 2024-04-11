@@ -13,9 +13,12 @@
 
 <h1 align="center">
   
-[![GitHub](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/oscar-realpe-/)
+<p align="center">
+    <a href="https://www.linkedin.com/in/oscar-realpe-/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge">
+    </a>
+</p>
 
-</h1>
 
 ## About Me
 
