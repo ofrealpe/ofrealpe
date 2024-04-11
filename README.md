@@ -11,11 +11,10 @@
 </body>
 </html>
 
-<h1 align="center">
-  
 <p align="center">
-    <a href="https://www.linkedin.com/in/oscar-realpe-/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge">
+    <!-- LinkedIn Badge -->
+    <a href="https://www.linkedin.com/in/oscar-realpe-/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=flat-square&logo=linkedin" alt="Insignia de LinkedIn">
     </a>
 </p>
 
