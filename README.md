@@ -31,7 +31,15 @@
 
 🏥 **Experience:** Nearly 10 years of experience in data analysis and case costing in healthcare, turning complex data into effective healthcare strategies.
 
-🔍 **Career Goals:** Creatively exploring new opportunities, seeking a role to take my data analysis expertise to the next level. If you're looking for someone who can translate numbers into narratives and strategies, let's connect!
+📊 **Operations and Financial Analysis**
+💹 **Advanced MS Excel (Pivot Tables, Macros)**
+📈 **Business Intelligence (Power BI, QlikView)**
+🔮 **Forecasting (DSO, KPIs, Machine Learning)**
+⚙️ **Process Improvement**
+🖥️ **PL/SQL (Cursor Handling)**
+📚 **CIHI Indicator Library**
+**Data Consolidation and Reporting**
+**Career Goals:** Creatively exploring new opportunities, seeking a role to take my data analysis expertise to the next level. If you're looking for someone who can translate numbers into narratives and strategies, let's connect!
 
 
 <!---
